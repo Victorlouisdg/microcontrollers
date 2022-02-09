@@ -12,5 +12,5 @@ Als Ubuntu nog niet op je laptop geïnstalleerd is, dan heb je twee opties om di
 Met de virtuele machine ben je het snelste op weg. Wij raden echter ook aan om de dual boot installatie in de vrije tijd zeker eens te proberen. Met een dual boot is programmeren aangenamer, omdat die altijd sneller zal werken dan een virtuele machine. Bovendien leer je zo extra basisvaardigheden aan die van nut zijn als computerwetenschapper.
 
 Lees voor de verdere installatie een van de onderstaande bestanden, afhankelijk van jouw keuze:
-* `1a_installatie_virtualbox.md`
-* `1b_installatie_dualboot.md`
+* [1a_installatie_virtualbox.md](https://github.com/Victorlouisdg/microcontrollers/blob/main/installatie/1a_installatie_virtualbox.md)
+* [1b_installatie_dualboot.md](https://github.com/Victorlouisdg/microcontrollers/blob/main/installatie/1b_installatie_dualboot.md)

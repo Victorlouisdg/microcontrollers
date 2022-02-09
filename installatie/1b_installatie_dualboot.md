@@ -28,7 +28,8 @@ Na de dual-boot voorzien we ook nog instructies om een aantal programma's te ins
     * `PlaformIO` configureren voor de Dwenguino.
         * Maak een nieuw bestand **dwenguino_avr.json** in `~/.platformio/platforms/atmelavr/boards` met daarin de code onderaan deze instructies
 
-Als bovenstaande installatie succesvol was, kan je nu proberen code up te loaden naar the Dwenguino bordje (TODO LINK 2_installatie_testen.md).
+Als bovenstaande installatie succesvol was, kan je nu proberen code up te loaden naar the Dwenguino bordje.
+Lees daarvoor [2_installatie_testen.md](https://github.com/Victorlouisdg/microcontrollers/blob/main/installatie/2_installatie_testen.md)
 
 Code voor **dwenguino_avr.json**:
 ```json
