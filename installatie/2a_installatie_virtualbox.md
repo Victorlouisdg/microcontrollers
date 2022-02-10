@@ -31,4 +31,4 @@ Zorg dat je minstens 20GB geheugen vrij hebt op je laptop voor je aan de install
   * Klik **Start**
 
 Als Ubuntu succesvol opstart, kan je nu proberen code up te loaden naar the Dwenguino bordje. 
-Lees daarvoor [2_installatie_testen.md](https://github.com/Victorlouisdg/microcontrollers/blob/main/installatie/2_installatie_testen.md)
+Lees daarvoor [3_installatie_testen.md](https://github.com/Victorlouisdg/microcontrollers/blob/main/installatie/3_installatie_testen.md)
